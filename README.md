@@ -37,11 +37,11 @@ Increasing prices for the inelastic submarket will cause a decrease in revenue
 
 7) Evaluate possible methods of government intervention to control household energy bills in the UK
 
+One possible method of government intervention is through subsidising energy providers.
+This is because, in theory, subsidies reduce the marginal cost of supply as the extra funding given to energy providers should lead to an increase in output sold of good (e.g. charge per kWH of energy), leading to a lower price for consumers.
+
 Method 1: Subsidies, which lead to an increase in output sold of good, at a lower market price, to producers reduce the marginal cost of supply.
 
-Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
-
-State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
 
 Is a subsidy part self-financing, will it create more tax revenue?
 for example energy subsidy is good, but are government behavioural nudges needed to "control household energy pills", will subsidies achieve the desired stimulus to demand/consumption
@@ -50,6 +50,7 @@ Paper 2 2023
 
 5b) Explain the relationship between a fiscal deficit and the national debt
 
+7
 
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
 
@@ -70,3 +71,11 @@ Globalisation can indirectly give rise to "structural unemployment" in Western c
     - Distinction between automatic stabilisers and discretionary fiscal policy
         Automatic stabilisers are automatic fiscal changes as the economy moves through stages of the business cycle - e.g. a fall in tax revenues from the circular flow kj:
 # alevel-economics
+
+
+
+
+
+Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
+
+State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
