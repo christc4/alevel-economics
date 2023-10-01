@@ -40,6 +40,8 @@ Increasing prices for the inelastic submarket will cause a decrease in revenue
 One possible method of government intervention is through subsidising energy providers.
 This is because, in theory, subsidies reduce the marginal cost of supply as the extra funding given to energy providers should lead to an increase in output sold of good (e.g. charge per kWH of energy), leading to a lower price for consumers.
 
+However, to counter-evaluate although this may reduce price per kWh of energy used, whether this "controls" household energy prices is debatable. For instance, subsidies may not be immune to supply-line disruptions i.e. "Russia-Ukraine war" or "international prices of fuel".
+
 Method 1: Subsidies, which lead to an increase in output sold of good, at a lower market price, to producers reduce the marginal cost of supply.
 
 
