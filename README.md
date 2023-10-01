@@ -30,6 +30,9 @@ External benefits are benefits external to the transaction, spillover, positive 
 
 1e) Discuss the likely impact of price discrimination on a firm's profit
 
+Price discrimination involves charging a different price to different groups of people for the same good.
+
+
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
 
 In 2015, when the pound appreciated, "Oxford Instruments" a firm which produces high techonology tools, reported a loss of all exports to Russia, as a result of the price change.
