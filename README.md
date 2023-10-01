@@ -46,7 +46,9 @@ However, to counter-evaluate although this may reduce price per kWh of energy us
 Is a subsidy part self-financing, will it create more tax revenue?
 for example energy subsidy is good, but are government behavioural nudges needed to "control household energy pills", will subsidies achieve the desired stimulus to demand/consumption
 
-8) Evaluate macroeconomic policies that could be used to increase international competitiveness in the UK's export markets.
+8) Evaluate macroeconomic policies that could be used to increase international competitiveness in the UK's export markets. (I will do not UK!)
+
+
 
 Competitiveness is the ability to sell goods/services successfully at a profit in overseas markets.
 Paper 2 2023
@@ -56,6 +58,12 @@ Paper 2 2023
 7
 
 ### CURRENCY
+
+Poland's currency is the Zloty,
+25% exports go to Germany.
+A competitive depreciation against foreign currencies.
+Lower interest rates, or intervene directly to sell Zloty supply and buy Euros.
+Weaker currency, makes Polish products relatively cheaper in foreign markets, as less foreign currency is now needed to buy the same amount of Polish goods.
 
  Poland is a country inside the EU single market but retains their own currency – the Zloty. 25% of Polish exports go to Germany. One policy that might help to improve the price competitiveness of Poland is for the Polish central bank to intervene in the currency market to bring about a competitive depreciation against the Euro. This might be done by lowering policy interest rates or by intervening directly to sell Zloty and buy Euros.
  A weaker currency would make Polish products relatively cheaper in Western European markets, as a result, there might be expenditure-switching effects as Poland sells more exports and domestic demand for imports contracts since they become more expensive priced in Zloty. A consequence of this might be that Polish exporters will make more profits and this could then help them to increase capital investment. This in turn could cause an increase in productivity which would help maintain competitiveness in the long-term.
