@@ -3,13 +3,13 @@
 
 6a) **Explain the market structure that best describes the market for UK online streaming services** (5)
 
-        - Oligopolistic as there are a small number of dominant firms with substantial market share and customer base.
-        - Interdependence of firms
-        - High Barriers to entry, include brand loyalty or economies of scal e
-        - Differentiated products
-        - Market share in excess of 25%
-        - Non-price competition
-        - Interdependence
+         Oligopolistic as there are a small number of dominant firms with substantial market share and customer base.
+         Interdependence of firms
+         High Barriers to entry, include brand loyalty or economies of scal e
+         Differentiated products
+         Market share in excess of 25%
+         Non-price competition
+         Interdependence
 
 6b) **Do Netflix consumers behave rationally?** (10)
 
