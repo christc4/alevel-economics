@@ -33,6 +33,18 @@ External benefits are benefits external to the transaction, spillover, positive 
 Price discrimination involves charging a different price to different groups of people for the same good, based on their willingness to pay.
 
 Price discrimination can achieve greater profits by targetting specific submarkets to generate more revenue and profit.
+Increasing prices for the inelastic submarket will cause a decrease in revenue
+
+7) Evaluate possible methods of government intervention to control household energy bills in the UK
+
+Method 1: Subsidies, which lead to an increase in output sold of good, at a lower market price, to producers reduce the marginal cost of supply.
+
+Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
+
+State Aid, business in retail, hospitality and leisure received grants to help keep afloat
+
+
+
 
 
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
