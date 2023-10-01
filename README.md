@@ -1,4 +1,4 @@
-## Past Paper Practicei-
+## Past Paper Practice
 ### 2023 Paper 1
 
 6a) **Explain the market structure that best describes the market for UK online streaming services** (5)
