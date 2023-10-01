@@ -41,7 +41,7 @@ Method 1: Subsidies, which lead to an increase in output sold of good, at a lowe
 
 Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
 
-State Aid, business in retail, hospitality and leisure received grants to help keep afloat
+State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
 
 
 
