@@ -11,6 +11,7 @@
         - Non-price competition
         - Interdependence
 
+6b) **Do Netflix consumers behave rationally?** (10)
 
 
 Exchange Rates
