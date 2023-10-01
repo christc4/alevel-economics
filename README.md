@@ -18,6 +18,10 @@ Consumers do behave rationally as when prices increase, "200,000" subscribers ar
 Alternatively, not all consumers behave rationally, as outlined by the reference, "forgetful consumers" who do not "cancel free trials" follow the concept of inertia (tendency to not change),
   computational weakness, lack of information assymetric
   unused subscriptions do not maximise utility/satisfaction, assymetric information also displayed as they forget cancellation date, computation weakness do not understand price changes.
+
+1c) Examine the likely numerical value of the XED between UK online streaming services
+
+
 Exchange Rates
 
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
