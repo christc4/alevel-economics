@@ -42,8 +42,6 @@ This is because, in theory, subsidies reduce the marginal cost of supply as the 
 
 However, to counter-evaluate although this may reduce price per kWh of energy used, whether this "controls" household energy prices is debatable. For instance, subsidies may not be immune to supply-line disruptions i.e. "Russia-Ukraine war" or "international prices of fuel".
 
-Method 1: Subsidies, which lead to an increase in output sold of good, at a lower market price, to producers reduce the marginal cost of supply.
-
 
 Is a subsidy part self-financing, will it create more tax revenue?
 for example energy subsidy is good, but are government behavioural nudges needed to "control household energy pills", will subsidies achieve the desired stimulus to demand/consumption
