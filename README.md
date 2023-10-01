@@ -30,7 +30,9 @@ External benefits are benefits external to the transaction, spillover, positive 
 
 1e) Discuss the likely impact of price discrimination on a firm's profit
 
-Price discrimination involves charging a different price to different groups of people for the same good.
+Price discrimination involves charging a different price to different groups of people for the same good, based on their willingness to pay.
+
+Price discrimination can achieve greater profits by targetting specific submarkets to generate more revenue and profit.
 
 
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
