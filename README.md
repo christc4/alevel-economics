@@ -25,6 +25,9 @@ However, to evaluate in the long-run XED is more likely to be positive than in t
 
 Exchange Rates
 
+1d) Private benefits are internal benefits of a transaction which are incurred by an individual consumer/producer and are taken into account by the price mechanism.
+External benefits are benefits external to the transaction, spillover, positive third party effects ignored by the price mechanism.
+
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
 
 In 2015, when the pound appreciated, "Oxford Instruments" a firm which produces high techonology tools, reported a loss of all exports to Russia, as a result of the price change.
