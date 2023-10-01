@@ -1,4 +1,12 @@
-    Exchange Rates
+### Past Paper Practice
+
+
+
+
+
+
+
+Exchange Rates
 
 Forex markes are incredibly volatile, investors are constantly weighing up risks/benefits by assessing real-time geopolitcs, economic climate, causing prices to fluctuate
 
