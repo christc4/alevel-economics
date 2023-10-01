@@ -13,7 +13,7 @@
 
 6b) **Do Netflix consumers behave rationally?** (10)
 
-    - Economic rationality is when consumers aim to maximise utility/satisfaction.
+Economic rationality is when consumers aim to maximise utility/satisfaction.
 Consumers do behave rationally as when prices increase, "200,000" subscribers are "forecasted to leave", this suggests that consumers are following the economic model of elasticity, as the magnitude of exiting consumers, suggest they are very price responsive/sensitive. This may also mean they have concluded that the utility gained from consuming Netflix, is outweighed by the price increase, hence they are "forecasted to leave".
 Alternatively, not all consumers behave rationally, as outlined by the reference, "forgetful consumers" who do not "cancel free trials" follow the concept of inertia (tendency to not change),
   -
