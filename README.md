@@ -43,6 +43,8 @@ Feed-in-tariff scheme is a government programme designed to promote the uptake o
 
 State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
 
+Is a subsidy part self-financing, will it create more tax revenue?
+for example energy subsidy is good, but are government behavioural nudges needed to "control household energy pills", will subsidies achieve the desired stimulus to demand/consumption
 
 
 
