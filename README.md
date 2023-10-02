@@ -117,3 +117,5 @@ Globalisation can indirectly give rise to "structural unemployment" in Western c
 Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
 
 State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
+
+Firms unable to recoupriate sunk costs
