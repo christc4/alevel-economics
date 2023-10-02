@@ -113,6 +113,11 @@ if company cannot issue equity or borrow from banks, then it has bad access to c
 Organic growth, slower route than external expansion (through acquiring other businesss), but is usually less risky.
 
 - increae production capacity, invest in new capital and technology, for example if firms products consistently selling out, then production capacity is restricting their expansion.
+-
+Launching new products, sell to people who are already customers,
+
+virgin records, launched virgin trains, virgin atlantic, virgin active,
+can be risky due to large investment and assymetric information, business owner may not be as knowledgeable in other product markets.
 ### CURRENCY
 
 Poland's currency is the Zloty,
