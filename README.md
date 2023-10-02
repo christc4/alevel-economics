@@ -55,6 +55,13 @@ Paper 2 2023
 7) Evaluate macroeconomic policies
 
 8) Evaluate macroeconomic policies apart from monetary policy the UK government could use to reduce inflation
+
+Contractionary fiscal olicy involves increasing taxation and reducing government spending to decrease AD in the economy. Increased taxation, e.g. corporate tax, income tax, reduces revenue for firms and disposable income for consumers. Consumption and investment will decrease as smaller proportion of earnings...  negative multiplier effect, universal credit payments cut, reduce gov spending..
+
+
+effectiveness depends on whether there are automatic stablisers in place which are counter cyclical to business cycle, such as job seekers allowance naturally occuring, more disposable income,however not always the cae, JSA more difficult to access, consumption may not increase.
+
+the government can also pursue supply side policies, to reduce inflation by aiming to increase AS, by building new homes, productivity increases, lras shifts out, real output increases, but most significantly, price levels fall down from pl1 to pl2
 ### CURRENCY
 
 Poland's currency is the Zloty,
