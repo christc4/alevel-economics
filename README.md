@@ -61,7 +61,9 @@ Contractionary fiscal olicy involves increasing taxation and reducing government
 
 effectiveness depends on whether there are automatic stablisers in place which are counter cyclical to business cycle, such as job seekers allowance naturally occuring, more disposable income,however not always the cae, JSA more difficult to access, consumption may not increase.
 
-the government can also pursue supply side policies, to reduce inflation by aiming to increase AS, by building new homes, productivity increases, lras shifts out, real output increases, but most significantly, price levels fall down from pl1 to pl2
+the government can also pursue supply side policies, to reduce inflation by aiming to increase AS, by building new homes, productivity increases, lras shifts out, real output increases, but most significantly, price levels fall down from pl1 to pl2. However, building new homes can cause the positive wealth effect, ??
+
+
 ### CURRENCY
 
 Poland's currency is the Zloty,
