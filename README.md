@@ -137,6 +137,9 @@ Opening new stores
 
 - rapid expansion
 - 2014 facebook bought whatsapp, for $19 billion instantly gave them 700 million customers
+
+diversify spread risk,
+a firm can merge or take over a firm in a different industry
 ### CURRENCY
 
 Poland's currency is the Zloty,
