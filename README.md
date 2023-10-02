@@ -100,6 +100,15 @@ As firms grow -> sell shares to finance expansion -> shareholders and managers h
 May lead to p.a problem -> interests do not allign, shareholders are not able to very easily monitor the behaviour of managers and vice versa,
 Managers may benefit more from revenue maximisation than profit maximisation, managers may not act in the shareholders best interest
 
+Shareholders can regain control from mangers, done by holding them accountable for firms performance adding pressure for them to perform in the shareholders interest. managers could also have their pay linked to the share price over a number of years, essentially realligning the goals.
+
+Why some firms grow/small
+
+Access to capital,
+they may not have many customers to spread their fixed costs over,
+if company cannot issue equity or borrow from banks, then it has bad access to capital
+
+### 5.1.2 Business Growth
 ### CURRENCY
 
 Poland's currency is the Zloty,
