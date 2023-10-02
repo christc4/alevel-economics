@@ -110,6 +110,9 @@ if company cannot issue equity or borrow from banks, then it has bad access to c
 
 ### 5.1.2 Business Growth
 
+Organic growth, slower route than external expansion (through acquiring other businesss), but is usually less risky.
+
+- increae production capacity, invest in new capital and technology, for example if firms products consistently selling out, then production capacity is restricting their expansion.
 ### CURRENCY
 
 Poland's currency is the Zloty,
