@@ -136,7 +136,7 @@ Opening new stores
 - Prime example of horizontal integration
 
 - rapid expansion
-- 2014 facebook bought whatsapp, for $19 billion
+- 2014 facebook bought whatsapp, for $19 billion instantly gave them 700 million customers
 ### CURRENCY
 
 Poland's currency is the Zloty,
