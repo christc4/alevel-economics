@@ -51,12 +51,14 @@ for example energy subsidy is good, but are government behavioural nudges needed
 
 
 Competitiveness is the ability to sell goods/services successfully at a profit in overseas markets.
+
 Paper 2 2023
 
 5b) Explain the relationship between a fiscal deficit and the national debt
 
 7
 
+8) Evaluate macroeconomic policies apart from monetary policy the UK government could use to reduce inflation
 ### CURRENCY
 
 Poland's currency is the Zloty,
