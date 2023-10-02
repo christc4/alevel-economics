@@ -118,6 +118,8 @@ Launching new products, sell to people who are already customers,
 
 virgin records, launched virgin trains, virgin atlantic, virgin active,
 can be risky due to large investment and assymetric information, business owner may not be as knowledgeable in other product markets.
+
+Opening new stores
 ### CURRENCY
 
 Poland's currency is the Zloty,
