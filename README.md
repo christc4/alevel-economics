@@ -140,6 +140,10 @@ Opening new stores
 
 diversify spread risk,
 a firm can merge or take over a firm in a different industry
+
+- disadvantages
+- costs outweigh benefits, diseconomies of scale, employees in other countries e.g.
+  demotivated employees
 ### CURRENCY
 
 Poland's currency is the Zloty,
