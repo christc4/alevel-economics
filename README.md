@@ -65,6 +65,16 @@ the government can also pursue supply side policies, to reduce inflation by aimi
 
 
 ### Paper 3 2023
+
+a) Explain one role of financial markets. (5)
+
+One role is to facilitate loans, loans to individuals,
+
+b) Why do retailers on high street remain small.
+
+One reason is high barriers of entry, the nature of the "high street" especially in cities such as London, Oxford St, high rent.market may be very concentrated and require large economies of scale, high fixec costs,
+
+they might also remain small to avoid diseconomies of scale, most specifically to avoid the principal agent problem, this is when business owners have less control over workers. this leads to increased average costs,
 ### CURRENCY
 
 Poland's currency is the Zloty,
