@@ -122,6 +122,11 @@ can be risky due to large investment and assymetric information, business owner 
 Opening new stores
 
 **External growth:**
+
+- Conglomerate integration, merger between two completely unrelated businesses
+- Horizontal integration, two compoetiros mergin
+- Backward vertical integration, acquiring companies that are further up supply chian, h*m buying sheep farm
+- forward vertical integration, ford buying dealership
 ### CURRENCY
 
 Poland's currency is the Zloty,
