@@ -91,6 +91,14 @@ A macro effect of falling house prices is demand-pull disinflation, as house pri
 
 ## Specification Points
 
+### 5.1.1 Size & Types of Firms
+
+Divorce of ownership from control;
+
+As firms grow -> sell shares to finance expansion -> shareholders and managers have different vested interests -> divorce of ownership and control
+
+May lead to p.a problem -> interests do not allign, shareholders are not able to very easily monitor the behaviour of managers and vice versa,
+Managers may benefit more from revenue maximisation than profit maximisation, managers may not act in the shareholders best interest
 
 ### CURRENCY
 
