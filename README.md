@@ -46,17 +46,13 @@ However, to counter-evaluate although this may reduce price per kWh of energy us
 Is a subsidy part self-financing, will it create more tax revenue?
 for example energy subsidy is good, but are government behavioural nudges needed to "control household energy pills", will subsidies achieve the desired stimulus to demand/consumption
 
-8) Evaluate macroeconomic policies that could be used to increase international competitiveness in the UK's export markets. (I will do not UK!)
-
-
-
 Competitiveness is the ability to sell goods/services successfully at a profit in overseas markets.
 
 Paper 2 2023
 
 5b) Explain the relationship between a fiscal deficit and the national debt
 
-7
+7) Evaluate macroeconomic policies
 
 8) Evaluate macroeconomic policies apart from monetary policy the UK government could use to reduce inflation
 ### CURRENCY
