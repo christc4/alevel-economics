@@ -48,7 +48,7 @@ for example energy subsidy is good, but are government behavioural nudges needed
 
 Competitiveness is the ability to sell goods/services successfully at a profit in overseas markets.
 
-Paper 2 2023
+### Paper 2 2023
 
 5b) Explain the relationship between a fiscal deficit and the national debt
 
