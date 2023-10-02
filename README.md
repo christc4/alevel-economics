@@ -127,6 +127,8 @@ Opening new stores
 - Horizontal integration, two compoetiros mergin
 - Backward vertical integration, acquiring companies that are further up supply chian, h*m buying sheep farm
 - forward vertical integration, ford buying dealership
+
+### 5.1.3 Pros & Cons of External Expansion
 ### CURRENCY
 
 Poland's currency is the Zloty,
