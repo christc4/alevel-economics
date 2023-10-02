@@ -75,6 +75,17 @@ b) Why do retailers on high street remain small.
 One reason is high barriers of entry, the nature of the "high street" especially in cities such as London, Oxford St, high rent.market may be very concentrated and require large economies of scale, high fixec costs,
 
 they might also remain small to avoid diseconomies of scale, most specifically to avoid the principal agent problem, this is when business owners have less control over workers. this leads to increased average costs,
+
+c) Discuss possible methods of price and non-price competition that firms could use to increase the value of sales on the high street.
+
+Price discrimination. Nail salon can charge different consumers for same product, e.g. student discount to the elastic submarket of 16-18 year olds, they are highly elastic due to their lack of income, in comparison to the inelastic submarket who earn a substantial income and are inelastic to price as nail salons are a low % of income spent, due to the fact they have higher incomes.   π2 + π3 > π1. more profit is generated through price discrimination,
+
+fact-check this,
+price discrimination requires monopoloy power,
+
+d) Evaluate the microeconomic and macroeconomic effects of falling house prices (25)
+
+A macro effect of falling house prices is demand-pull disinflation, as house prices fall in 2008 by 17.5%, homeowners experience the negative wealth effect. As the value of their assets decrease, homeowners in the UK feel less wealtheir, despite no change in come. fall in MPC, thus consumption falls, consumption is a component of AD, around 60%
 ### CURRENCY
 
 Poland's currency is the Zloty,
