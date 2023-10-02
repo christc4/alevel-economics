@@ -134,6 +134,9 @@ Opening new stores
 - Increase market share, economies of scale
 - 2004, Morrisons took over Safeway, 500 stores from 120, market share rose from 6.4% to 15%
 - Prime example of horizontal integration
+
+- rapid expansion
+- 2014 facebook bought whatsapp, for $19 billion
 ### CURRENCY
 
 Poland's currency is the Zloty,
