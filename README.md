@@ -64,6 +64,7 @@ effectiveness depends on whether there are automatic stablisers in place which a
 the government can also pursue supply side policies, to reduce inflation by aiming to increase AS, by building new homes, productivity increases, lras shifts out, real output increases, but most significantly, price levels fall down from pl1 to pl2. However, building new homes can cause the positive wealth effect, ??
 
 
+### Paper 3 2023
 ### CURRENCY
 
 Poland's currency is the Zloty,
