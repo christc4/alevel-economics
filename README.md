@@ -129,6 +129,11 @@ Opening new stores
 - forward vertical integration, ford buying dealership
 
 ### 5.1.3 Pros & Cons of External Expansion
+
+- Reduce competition
+- Increase market share, economies of scale
+- 2004, Morrisons took over Safeway, 500 stores from 120, market share rose from 6.4% to 15%
+- Prime example of horizontal integration
 ### CURRENCY
 
 Poland's currency is the Zloty,
