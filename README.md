@@ -109,6 +109,7 @@ they may not have many customers to spread their fixed costs over,
 if company cannot issue equity or borrow from banks, then it has bad access to capital
 
 ### 5.1.2 Business Growth
+
 ### CURRENCY
 
 Poland's currency is the Zloty,
