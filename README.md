@@ -88,6 +88,10 @@ d) Evaluate the microeconomic and macroeconomic effects of falling house prices 
 *check if its disinflation or deflation
 
 A macro effect of falling house prices is demand-pull disinflation, as house prices fall in 2008 by 17.5%, homeowners experience the negative wealth effect. As the value of their assets decrease, homeowners in the UK feel less wealtheir, despite no change in come. fall in MPC, thus consumption falls, consumption is a component of AD, around 60, therefore ad will shift inwards, to strengthen this point 60% of the uk population are homeowners, this fall in ad will lead to demand-pull disinflation as price levels fall from pl1 to pl2
+
+## Specification Points
+
+
 ### CURRENCY
 
 Poland's currency is the Zloty,
