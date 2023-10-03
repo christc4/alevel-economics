@@ -197,6 +197,10 @@ Wealth is the sum of all assets e.g. pension, current account, financial investm
 Factors which influence distribution of wealth/income,
 
 - tacation policy: regressive policy widen income and wealth gap, progressive taxation reduces the gap
+- differences in wage between low and high skilled labour
+- level of discrimination against different groups of workers
+- regional differences in earnigns
+- unsalaried individuals who depend on state benefits
 
 
 [#](#) alevel-economics
