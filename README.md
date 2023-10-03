@@ -213,6 +213,14 @@ Vertical equity would imply that individuals with higher incomes/wealth paid mor
 
 ### 8.1.3 Inequality 2
 
+Benefits and Costs of an Unequal Income Distribution
+
+Benefits; encourage entrepreneurship
+increase levels of absoulte and relative poverty,
+Higher crime,
+
+If some people have a very high income, depending on the marginal propensity to import, this could lead to a worsening of the balance of trade. If income rises, people will import more.
+
 [#](#) alevel-economics
 
 - Hysteresis effet when previous unemployment negatively affects future employment, people lose skills in recessions, they become less emplylable and may be less motivated.
