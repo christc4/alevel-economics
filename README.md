@@ -23,10 +23,9 @@ Alternatively, not all consumers behave rationally, as outlined by the reference
 
 However, to evaluate in the long-run XED is more likely to be positive than in the short-run, as in the long-run enough time may have passed for new substitutes to enter the market, as opposed to in the short-run. Therefore, it can be stated that in the short-run XED is not strongly positve, compared to the long run. In addition, the strength of the substitutes can influence whether or not the XED value is positive, factors such as brand loyalty and platform-exclusive shows, such as the "mandalorian" on disney+ or stranger things on "netflix" may mean that rivals such as nowtv and netflix are weak substitues, as consumers will be less likely to switch to alternative platforms, due to their preferential attitude towards netflix and disney plus
 
-Exchange Rates
+1d)
 
-1d) Private benefits are internal benefits of a transaction which are incurred by an individual consumer/producer and are taken into account by the price mechanism.
-External benefits are benefits external to the transaction, spillover, positive third party effects ignored by the price mechanism.
+
 
 1e) Discuss the likely impact of price discrimination on a firm's profit
 
