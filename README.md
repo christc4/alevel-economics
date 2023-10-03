@@ -202,14 +202,29 @@ Factors which influence distribution of wealth/income,
 - regional differences in earnigns
 - unsalaried individuals who depend on state benefits
 
+In the UK, wealth is distributed more unequally than income. This is because differences in income can compound over years and over generations if wealth is passed on through families.
+Equality measures the difference in income and wealth from the very richest in society to the poorest.
+
+Equity tries to judge whether the distribution of income and wealth is fair or not.
+Because equity tries to judge whether the distribution of income and wealth is fair or not, it's hard to quantify. So a value judgement needs to be made.
+Equity can be horizontal or vertical:
+Horizontal equity would imply individuals with similar incomes/wealth paid similar amounts of tax.
+Vertical equity would imply that individuals with higher incomes/wealth paid more tax.
+
+
 
 [#](#) alevel-economics
 
 - Hysteresis effet when previous unemployment negatively affects future employment, people lose skills in recessions, they become less emplylable and may be less motivated.
 
+In a market economy, different people get different wages based on the jobs they have. Each person then spends money on the basic costs of survival (needs, the cost of which are the same for each person) and then spends a proportion of what is left on wants.
+
+Wealth inequality
 
 
 
+
+A market economy is an economic system where two forces, known as supply and demand, direct the production of goods and services. Market economies are not controlled by a central authority (like a government) and are instead based on voluntary exchange.
 
 Feed-in-tariff scheme is a government programme designed to promote the uptake of small-scale renewable and low-carbon electricity generation technologies.
 
