@@ -176,7 +176,14 @@ Globalisation can indirectly give rise to "structural unemployment" in Western c
 
     - Distinction between automatic stabilisers and discretionary fiscal policy
         Automatic stabilisers are automatic fiscal changes as the economy moves through stages of the business cycle - e.g. a fall in tax revenues from the circular flow kj:
+
+8.1 Poverty
+
+### 8.1.1 Absolute & Relative Poverty
+
+
 # alevel-economics
+
 
 
 
