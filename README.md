@@ -181,9 +181,15 @@ Globalisation can indirectly give rise to "structural unemployment" in Western c
 
 ### 8.1.1 Absolute & Relative Poverty
 
+- Relative poverty measured as less than 60% of the median income of a country.
 
+- Absolute poverty, lack means to meet basic needs
+- Low income, low wealth, unemployed
+- Poverty trap, net gain to work is zero, whatever they earn, they lsoe in government assistance
+-
 # alevel-economics
 
+- Hysteresis effet when previous unemployment negatively affects future employment, people lose skills in recessions, they become less emplylable and may be less motivated.
 
 
 
