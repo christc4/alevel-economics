@@ -211,7 +211,7 @@ Equity can be horizontal or vertical:
 Horizontal equity would imply individuals with similar incomes/wealth paid similar amounts of tax.
 Vertical equity would imply that individuals with higher incomes/wealth paid more tax.
 
-
+### 8.1.3 Inequality 2
 
 [#](#) alevel-economics
 
