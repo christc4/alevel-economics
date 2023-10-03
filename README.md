@@ -221,6 +221,24 @@ Higher crime,
 
 If some people have a very high income, depending on the marginal propensity to import, this could lead to a worsening of the balance of trade. If income rises, people will import more.
 
+### 8.1.4 Lorenz Curve
+
+
+### 8.1.5 Goverment Policy on Poverty
+
+### 8.2 Emerging and Developing Economies
+
+
+
+
+
+
+
+
+
+
+
+
 [#](#) alevel-economics
 
 - Hysteresis effet when previous unemployment negatively affects future employment, people lose skills in recessions, they become less emplylable and may be less motivated.
