@@ -186,8 +186,20 @@ Globalisation can indirectly give rise to "structural unemployment" in Western c
 - Absolute poverty, lack means to meet basic needs
 - Low income, low wealth, unemployed
 - Poverty trap, net gain to work is zero, whatever they earn, they lsoe in government assistance
--
-# alevel-economics
+
+- Some people may have the entrepreneurial talent and drive, but lack resources.
+
+### 8.1.2 Inequality
+
+Income is a flow of money, often measured on monthly/annual basis.
+Wealth is the sum of all assets e.g. pension, current account, financial investment, home value.
+
+Factors which influence distribution of wealth/income,
+
+- tacation policy: regressive policy widen income and wealth gap, progressive taxation reduces the gap
+
+
+[#](#) alevel-economics
 
 - Hysteresis effet when previous unemployment negatively affects future employment, people lose skills in recessions, they become less emplylable and may be less motivated.
 
