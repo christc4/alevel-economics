@@ -265,6 +265,18 @@ e) Using examples from Figure 2 or Extract B, discuss the likely impact of price
 
 Price discrimination is a pricing strategy that involves firms charging consumers, based on their elasticity, different prices for the same good in order to maximise profits.
 
-One likely impact of price discrimination on "Streaming service provider's"
+One likely impact of price discrimination by "Streaming service provider's" such as "Amazon" is an increase in profit. Amazon is able to charge 8.99 to the inelastic submarket who are more willing to purhcase the same service for a higher price. This is because they are on a higher income bracket than students, so the 8.99 monthly fee is a smaller percentage of their disposable income compared to students. When put together amazon generates pi2 + pi3, as visualised on the diagram. Said combined profit is greater than p1, which is the non segmented market price. Therefore, price discrimination can achieve greater profits, the combined shaded area of pi2 and pi3 is larger than p1, by targeting speific submarkets, to generate more profit.
 
-Amazon is able to charge 8.99 to the inelastic submarket who are more willing to purhcase the same service for a higher price. This is because they are on a higher income bracket than students, so the 8.99 monthly fee is a smaller percentage of their disposable income compared to students. When put together amazon generates pi2 + pi3, as visualised on the diagram. =
+
+
+However, gaining profits relies heavily on the concentration/compettiion,
+The uk online straeming serivie is oligopolist for example, apple tv charge 4.99, this will eatinto amazons profits as amazons prices for the inelastic market is much higher than appleas. as a result consumers who follow lower prices may switch from prime to apple,
+
+
+Price discrimination may cause a decrease in a firms profits,
+
+Risk of Customer Alienation: If not executed carefully, price discrimination can alienate customers who feel they are being unfairly charged higher prices. This can lead to a loss of customer trust and loyalty, potentially harming long-term profitability.
+
+In summary, the impact of price discrimination on a firm's profits can be significant, with the potential for increased revenue and profit margins. However, successful implementation requires careful consideration of market segmentation, pricing strategies, and administrative costs, as well as compliance with legal and ethical standards. When done effectively, price discrimination can be a powerful tool for maximizing a firm's profits, but it should be used judiciously to avoid potential pitfalls and backlash from customers and regulators.
+
+Legal and Regulatory Considerations: Price discrimination can be subject to legal and regulatory scrutiny, particularly if it leads to anticompetitive behavior or market abuse. Firms need to be aware of the legal constraints in their markets.
