@@ -262,3 +262,9 @@ Firms unable to recoupriate sunk costs
 ### REWRITE
 
 e) Using examples from Figure 2 or Extract B, discuss the likely impact of price discrimination on a firm's profits. Use a relevant diagram to support your answer.
+
+Price discrimination is a pricing strategy that involves firms charging consumers, based on their elasticity, different prices for the same good in order to maximise profits.
+
+One likely impact of price discrimination on "Streaming service provider's"
+
+Amazon is able to charge 8.99 to the inelastic submarket who are more willing to purhcase the same service for a higher price. This is because they are on a higher income bracket than students, so the 8.99 monthly fee is a smaller percentage of their disposable income compared to students. When put together amazon generates pi2 + pi3, as visualised on the diagram. =
