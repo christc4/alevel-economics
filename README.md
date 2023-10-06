@@ -257,3 +257,8 @@ Feed-in-tariff scheme is a government programme designed to promote the uptake o
 State Aid, business in retail, hospitality and leisure received grants to help keep [afloat](afloat)
 
 Firms unable to recoupriate sunk costs
+
+
+### REWRITE
+
+e) Using examples from Figure 2 or Extract B, discuss the likely impact of price discrimination on a firm's profits. Use a relevant diagram to support your answer.
